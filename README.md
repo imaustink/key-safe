@@ -1,5 +1,7 @@
 # Key Safe
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/imaustink/key-safe.svg)](https://greenkeeper.io/)
+
 A helper for storing keys on disk, securely.
 
 # Ussage
